@@ -1,0 +1,5 @@
+*.meta
+Unity_Learning/Library/
+*.cache
+*.log
+Unity_Learning/.vs/
