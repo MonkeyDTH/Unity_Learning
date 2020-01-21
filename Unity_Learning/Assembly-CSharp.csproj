@@ -68,6 +68,10 @@
     <Compile Include="Assets\Scene2_3\GraphFunction.cs" />
     <Compile Include="Assets\Scene2_3\GraphFunctionName.cs" />
     <Compile Include="Assets\Scene2_4\Fractal.cs" />
+    <Compile Include="Assets\Scene2_5\FPSCounter.cs" />
+    <Compile Include="Assets\Scene2_5\FPSDisplay.cs" />
+    <Compile Include="Assets\Scene2_5\NuclearSpawner.cs" />
+    <Compile Include="Assets\Scene2_5\Nucleon.cs" />
     <None Include="Assets\Scene2_2\ColoredPoint.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
