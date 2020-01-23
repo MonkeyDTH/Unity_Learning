@@ -63,16 +63,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scene2_1\Clock.cs" />
-    <Compile Include="Assets\Scene2_2\Graph.cs" />
-    <Compile Include="Assets\Scene2_3\GraphFunction.cs" />
-    <Compile Include="Assets\Scene2_3\GraphFunctionName.cs" />
-    <Compile Include="Assets\Scene2_4\Fractal.cs" />
-    <Compile Include="Assets\Scene2_5\FPSCounter.cs" />
-    <Compile Include="Assets\Scene2_5\FPSDisplay.cs" />
-    <Compile Include="Assets\Scene2_5\NuclearSpawner.cs" />
-    <Compile Include="Assets\Scene2_5\Nucleon.cs" />
-    <None Include="Assets\Scene2_2\ColoredPoint.shader" />
+    <Compile Include="Assets\1_1\Clock.cs" />
+    <Compile Include="Assets\1_2\Graph.cs" />
+    <Compile Include="Assets\1_3\GraphFunction.cs" />
+    <Compile Include="Assets\1_3\GraphFunctionName.cs" />
+    <Compile Include="Assets\1_4\Fractal.cs" />
+    <Compile Include="Assets\1_5\FPSCounter.cs" />
+    <Compile Include="Assets\1_5\FPSDisplay.cs" />
+    <Compile Include="Assets\1_5\NuclearSpawner.cs" />
+    <Compile Include="Assets\1_5\Nucleon.cs" />
+    <Compile Include="Assets\2_1\Scripts\MovingSphere.cs" />
+    <None Include="Assets\1_2\ColoredPoint.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -90,6 +91,18 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>D:/Projects/CG/Unity/Unity_Learning/Unity_Learning/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Software/Unity/2019.1.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
